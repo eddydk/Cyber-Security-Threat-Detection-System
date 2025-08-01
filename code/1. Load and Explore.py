@@ -16,5 +16,3 @@ print(df.shape)
 print(df.columns)
 print(df.head())
 print(df['label'].value_counts())
-
-
